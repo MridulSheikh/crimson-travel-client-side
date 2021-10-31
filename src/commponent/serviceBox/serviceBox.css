@@ -1,0 +1,8 @@
+.odd{
+    background-color: rgba(235, 235, 235, 0.644);
+    cursor: zoom-in;
+}
+.even{
+    background-color: rgba(168, 194, 169, 0.521);
+    cursor: zoom-in;
+}

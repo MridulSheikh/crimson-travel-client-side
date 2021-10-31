@@ -1,0 +1,17 @@
+.logoName{
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(34, 199, 13);
+}
+.fas{
+    color: rgba(110, 110, 110, 0.267);
+}
+.photo{
+    border-radius: 50%;
+}
+.useremail{
+    font-size: 16px;
+    margin-left: 49px;
+}
+.logout-btn{
+    margin-left: 49px;
+}

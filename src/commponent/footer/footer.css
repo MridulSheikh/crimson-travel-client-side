@@ -1,0 +1,17 @@
+.footer{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 1% 7%;
+    color: #fff;
+    background-color: #a7ac67;
+}
+h6{
+    margin: 15px;
+}
+h4{
+    color: rgb(230, 230, 230);
+    margin: 13px;
+}
+.icon{
+    color: rgb(255, 255, 255);
+}
